@@ -1,3 +1,5 @@
+//Just mention that this project is't a personally project ,so the writer should be mention it above the Commit;
+and the virsion of the code should be non personally mentioned
 # JJJJinx
 Multiplayer Online TPS Battle - UE4 Game Development
 
